@@ -8,9 +8,9 @@ Traditional keyword-based or rule-based filters cannot keep up with evolving spa
 This project develops a robust ML-powered spam detection system with 99% accuracy using Multinomial Naive Bayes, making it scalable for real-world applications.
 
 ### 🛠 Problem Statement
--Spam causes loss of productivity and exposes users to security risks.
--Rule-based methods fail because spammers constantly change tactics.
--Goal: Build a machine learning classifier that automatically identifies spam with high accuracy, precision, and recall.
+- Spam causes loss of productivity and exposes users to security risks.
+- Rule-based methods fail because spammers constantly change tactics.
+- Goal: Build a machine learning classifier that automatically identifies spam with high accuracy, precision, and recall.
 
 ### 🔑 Solution Approach
 #### 1. Data Preprocessing
